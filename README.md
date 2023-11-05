@@ -19,7 +19,7 @@
 `AIOchestrator` involves thinking about modularity, maintainability, and clarity:
 
 ```plaintext
-/AIOchestrator
+/ai-orchestrator-example
 |-- /bin                      # Executable scripts
 |-- /src                      # Source files
 |   |-- /api                  # API endpoint definitions
